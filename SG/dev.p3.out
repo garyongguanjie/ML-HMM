@@ -17674,8 +17674,8 @@ when O
 they O
 come O
 to O
-green B-negative
-bay I-negative
+green O
+bay O
 ? O
 ? O
 #GreenDay O
@@ -32469,9 +32469,9 @@ personal O
 journey O
 of O
 healthy O
-eating B-positive
-& I-positive
-amp I-positive
+eating O
+& O
+amp O
 ; O
 weight O
 loss O
@@ -34481,10 +34481,10 @@ rape O
 issue O
 . O
  
-Te B-neutral
-watching I-neutral
-Gossip I-neutral
-Girl I-neutral
+Te O
+watching O
+Gossip O
+Girl O
 on O
 Netflix B-neutral
 . O

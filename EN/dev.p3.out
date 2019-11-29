@@ -106,8 +106,8 @@ still-limited B-NP
 services I-NP
 , O
 blocked B-NP
-roadways B-UCP
-and I-UCP
+roadways I-NP
+and O
 water B-NP
 shortages I-NP
 in B-PP
@@ -515,9 +515,9 @@ bills I-NP
 Stocks B-NP
 retreated B-VP
 to I-VP
-session B-ADJP
-lows I-ADJP
-just I-ADJP
+session B-NP
+lows I-NP
+just B-ADVP
 after B-PP
 the B-NP
 opening I-NP
@@ -1134,8 +1134,8 @@ billion I-NP
 $ B-NP
 3.2 I-NP
 billion I-NP
--RRB- B-ADJP
-deficit I-ADJP
+-RRB- O
+deficit B-NP
 in B-PP
 the B-NP
 current I-NP
@@ -1897,7 +1897,7 @@ Illinois B-NP
 You B-NP
 'll B-VP
 see I-VP
-carriers B-VP
+carriers I-VP
 try I-VP
 to I-VP
 recoup I-VP
@@ -4078,8 +4078,8 @@ crucial I-NP
 Christmas I-NP
 season I-NP
 -- O
-may B-ADJP
-slide I-ADJP
+may B-VP
+slide I-VP
 into B-PP
 the B-NP
 second I-NP
@@ -4227,7 +4227,7 @@ college B-NP
  
 `` O
 You B-NP
-eliminate B-NP
+eliminate I-NP
 companies I-NP
 with B-PP
 substantial B-NP
@@ -4626,8 +4626,8 @@ out B-PRT
 that B-NP
 for B-PP
 those B-NP
-who B-ADJP
-invest I-ADJP
+who B-NP
+invest I-NP
 on B-PP
 fundamentals B-NP
 , O
@@ -5527,9 +5527,9 @@ $ B-NP
 equipping B-VP
 a B-NP
 trailer I-NP
-with B-SBAR
-communications I-SBAR
-gear B-NP
+with B-PP
+communications B-NP
+gear I-NP
 to B-VP
 serve I-VP
 as B-PP
@@ -6529,7 +6529,7 @@ residents B-NP
 in B-PP
 Northern B-NP
 California I-NP
-rebuild B-LST
+rebuild I-NP
 , O
 FEMA B-NP
 intends B-VP
@@ -7101,9 +7101,9 @@ up B-PRT
 , O
 it B-NP
 teemed I-NP
-with B-SBAR
-emotional I-SBAR
-first-hand B-NP
+with B-PP
+emotional B-NP
+first-hand I-NP
 reports I-NP
 . O
  
@@ -7684,11 +7684,11 @@ propaganda I-NP
 . O
  
 But O
-rail B-LST
-, O
-air B-NP
-and I-NP
-ocean-shipping I-NP
+rail B-NP
+, I-NP
+air I-NP
+and O
+ocean-shipping B-NP
 links I-NP
 to B-PP
 the B-NP
@@ -8050,12 +8050,12 @@ enormous B-NP
 sums I-NP
 . O
  
-Brady B-UCP
-and I-UCP
-Breeden I-UCP
-work B-NP
-well I-NP
-together B-ADVP
+Brady B-NP
+and I-NP
+Breeden B-VP
+work I-VP
+well I-VP
+together B-PRT
 on B-PP
 the B-NP
 plunge I-NP
@@ -9002,8 +9002,8 @@ cash B-NP
 tips I-NP
 , O
 people B-NP
-who B-ADJP
-engage I-ADJP
+who B-NP
+engage I-NP
 in B-PP
 large B-NP
 cash I-NP
@@ -9666,8 +9666,8 @@ general B-NP
 corporate I-NP
 purposes I-NP
 , O
-including B-ADJP
-expansion I-ADJP
+including B-PP
+expansion B-NP
 of B-PP
 the B-NP
 company I-NP
@@ -12911,8 +12911,8 @@ ca B-VP
 n't I-VP
 be I-VP
 taken I-VP
-for B-SBAR
-granted B-LST
+for B-PP
+granted B-NP
 , O
 '' O
 the B-NP
@@ -13617,8 +13617,8 @@ have I-VP
 in B-PP
 fact B-NP
 decelerated I-NP
-since B-SBAR
-spring B-LST
+since B-PP
+spring B-NP
 . O
  
 `` O
@@ -16586,7 +16586,7 @@ one B-NP
 of B-PP
 the B-NP
 big I-NP
-talking B-NP
+talking I-NP
 points I-NP
 in B-PP
 the B-NP
@@ -17442,11 +17442,11 @@ in B-PP
 . O
  
 White B-NP
-women B-NP
-serve B-UCP
-tea I-UCP
-and I-UCP
-coffee B-NP
+women B-VP
+serve I-VP
+tea B-NP
+and I-NP
+coffee I-NP
 , O
 and O
 then B-ADVP
@@ -18087,9 +18087,9 @@ financing I-NP
 provision I-NP
 . O
  
-Dan B-UCP
-Baldwin I-UCP
-, I-UCP
+Dan B-NP
+Baldwin I-NP
+, O
 managing B-NP
 director I-NP
 of B-PP
@@ -18244,9 +18244,9 @@ yesterday B-NP
 afternoon I-NP
 . O
  
-Most B-SBAR
-earn I-SBAR
-high B-NP
+Most B-NP
+earn I-NP
+high I-NP
 ratings I-NP
 from B-PP
 credit B-NP
@@ -18725,8 +18725,8 @@ issues I-NP
 involving B-VP
 a B-NP
 FileNet I-NP
-system O
-installed B-INTJ
+system I-NP
+installed O
 earlier B-ADVP
 this B-NP
 year I-NP
@@ -18808,7 +18808,7 @@ as I-NP
 leader I-NP
 was B-VP
 to I-VP
-visit I-SBAR
+visit B-PP
 a B-NP
 gritty I-NP
 machine I-NP
@@ -21046,8 +21046,8 @@ has B-VP
 propelled B-NP
 laptops I-NP
 into B-PP
-position B-CONJP
-as I-CONJP
+position B-NP
+as B-PP
 the B-NP
 fastest-growing I-NP
 segment I-NP
@@ -21220,8 +21220,8 @@ into B-PP
 indexing B-NP
 , O
 '' O
-says B-SBAR
-P. I-SBAR
+says B-VP
+P. I-VP
 James B-NP
 Kartalia I-NP
 , O
@@ -21881,8 +21881,8 @@ cents I-NP
 `` O
 We B-NP
 expect B-VP
-near-term B-ADJP
-sluggishness I-ADJP
+near-term B-NP
+sluggishness I-NP
 in B-PP
 the B-NP
 electronics I-NP
@@ -21915,7 +21915,7 @@ He B-NP
 said B-VP
 certain B-NP
 volunteers I-NP
-developed B-NP
+developed I-NP
 kinds I-NP
 of B-PP
 antibodies B-NP
@@ -25803,8 +25803,8 @@ Industries I-NP
 Inc. I-NP
 , O
 hurt B-VP
-by B-ADJP
-softness I-ADJP
+by B-PP
+softness B-NP
 in B-PP
 the B-NP
 U.S. I-NP
